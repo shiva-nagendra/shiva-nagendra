@@ -1,21 +1,43 @@
-# Hey, I'm Shiva 
+## Hi, I'm Shiva
 
-I'm currently on a **30-week journey to become an AI Engineer**, documenting my progress daily through hands-on coding and projects.
+I’m on a 30-week, execution-driven journey to become an AI Engineer, focused on strong fundamentals, disciplined practice, and real-world problem solving. My work emphasizes clean code, logical clarity, and consistent progress.
 
-### What I’m working on
-- Python fundamentals (Week 1–2)
-- CLI projects: BMI calculator, Unit converter, Hangman
-- Building logical thinking through challenge-based learning
-- Preparing for modern AI tech stack (LLMs, APIs, AI-powered apps)
+___
 
-###  My Active Repository
-👉 **[AI 30-Week Journey](https://github.com/shiva-nagendra/ai-30week-journey)**
+## Current Work
 
-###  Near Future Goals
-- Complete Hangman project
-- Learn OOP in depth (Week 3)
-- Start building AI applications with APIs & agents
-- Real-world AI project in 3–4 months
+- Completed Python fundamentals with hands-on implementation
+- Built and shipped multiple CLI projects:
+  - BMI Calculator
+  - Unit Converter
+  - Number Guessing Game
+  - Hangman
+  - Banking System CLI
+  - Traffic Space Detector CLI
+- Strengthening problem-solving and structured programming
+- Preparing for modern AI development (APIs, LLMs, agent-based systems)
+
+___
+
+## Active Repository
+
+AI 30-Week Journey  
+https://github.com/shiva-nagendra/ai-30week-journey  
+
+Daily commits, milestone-based progress, and roadmap-driven execution.
+
+___
+
+## Near-Term Goals
+
+- Refine and refactor Phase-1 CLI projects
+- Deepen Object-Oriented Programming through practical use
+- Begin API-based application development
+- Transition into AI-focused projects and agents
+
+___
+
+Consistent execution over motivation.
 
 ---
 
