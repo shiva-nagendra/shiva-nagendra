@@ -1,63 +1,43 @@
 ## Hi, I'm Shiva
 
-I’m on a 30-week, execution-driven journey to become an AI Engineer, focused on strong fundamentals, disciplined practice, and real-world problem solving. My work emphasizes clean code, logical clarity, and consistent progress.
-
-___
-
-## Current Work
-
-- Completed Python fundamentals with hands-on implementation
-- Built and shipped multiple CLI projects:
-  - BMI Calculator
-  - Unit Converter
-  - Number Guessing Game
-  - Hangman
-  - Banking System CLI
-  - Traffic Space Detector CLI
-- Strengthening problem-solving and structured programming
-- Preparing for modern AI development (APIs, LLMs, agent-based systems)
-
-___
-
-## Active Repository
-
-AI 30-Week Journey  
-https://github.com/shiva-nagendra/ai-30week-journey  
-
-Daily commits, milestone-based progress, and roadmap-driven execution.
-
-___
-
-## Near-Term Goals
-
-- Refine and refactor Phase-1 CLI projects
-- Deepen Object-Oriented Programming through practical use
-- Begin API-based application development
-- Transition into AI-focused projects and agents
-
-___
-
-Consistent execution over motivation.
-
+I’m on a focused, execution-driven journey to become an **AI Engineer**, building strong foundations in programming and machine learning through hands-on work.
 
 ---
 
-*"Learn, Build, Get Stuck, Fix it, Repeat."*  
-I'm focused on executing every single day.
+## Currently Learning
 
+- **Machine Learning fundamentals**
+- Python for data handling and model building
+- Writing clean, structured, and maintainable code
 
+---
 
-<!--
-**shiva-nagendra/shiva-nagendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work So Far
 
-Here are some ideas to get you started:
+- Built multiple **Python-based CLI applications**
+- Strong focus on:
+  - Problem-solving
+  - Logical clarity
+  - Structured programming
+- Actively refactoring earlier work as skills improve
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Active Repository
+
+**AI 30-Week Journey**  
+https://github.com/shiva-nagendra/ai-30week-journey  
+
+Daily commits • roadmap-driven execution • continuous improvement
+
+---
+
+## What’s Next
+
+- Machine learning mini-projects
+- API-based applications
+- Transition toward applied AI and agent-based systems
+
+---
+
+*Consistency over motivation.*
