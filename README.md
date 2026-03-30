@@ -47,7 +47,10 @@ Daily commits • roadmap-driven execution • continuous improvement
 
 Building projects using rapid execution and AI-assisted development:
 
-- Vibe Resume Builder (AI-assisted resume generation tool)  
+- Vibe Resume Builder (AI-assisted resume generation tool)
+- careerbuilder.ai
+- https://ats-genius-9.emergent.host
+
 - More projects in progress focused on real-world utility  
 
 Focus areas:
